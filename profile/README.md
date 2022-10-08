@@ -13,14 +13,6 @@ Modular compilation setup. Written in Rust.
 - Visual Studio Code extension
 
 ## What are we working on?
-- Tooling
-  - [X] File Generation
-  - [ ] CDN access for BuildKits
-  - [ ] Proper definition of Pendorafile
-  - [ ] Refactor Pendorafile with structs for Serde
-- Compiler Base
-  - [ ] Lexical Analysis and Tokenisation
-  - [ ] AST
 - BuildKits (for now)
   - [ ] Rust
   - [ ] TypeScript
