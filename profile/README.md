@@ -3,18 +3,16 @@ Declarative syntax for producing multiplatform wrappers and SDKs for REST APIs f
 Modular compilation setup. Written in Rust.
 
 ## Who are we?
-- @ScratchCat458
+- [ScratchCat458](https://github.com/ScratchCat458)
 - ...
 - ...
 
 ## What do we maintain?
-- Command Line Tool
-- Specification + Implementation Guide + Documentation
-- Visual Studio Code extension
+- Documentation about the language, compilation (impl docs)
+- Documentation abotu how to use the language (coming soon)
+- Syntax parser
+- Language transpilers
 
-## What are we working on?
-- BuildKits (for now)
-  - [ ] Rust
-  - [ ] TypeScript
-  - [ ] Java
-  - [ ] Python
+## How we maintain our appearances?
+Get your shirts and hoodies [here](https://www.bonfire.com/pendora-project-geometric/)
+Designed by [ScratchCat458](https://github.com/ScratchCat458) and [Aicnyn](https://github.com/Aicnyn)
