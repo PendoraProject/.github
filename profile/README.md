@@ -9,7 +9,7 @@ Modular compilation setup. Written in Rust.
 
 ## What do we maintain?
 - Documentation about the language, compilation (impl docs)
-- Documentation abotu how to use the language (coming soon)
+- Documentation about how to use the language (coming soon)
 - Syntax parser
 - Language transpilers
 
